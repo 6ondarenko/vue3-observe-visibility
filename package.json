@@ -1,0 +1,19 @@
+{
+  "name": "@6ondarenko/vue3-observe-visibility-types",
+  "version": "1.0.0",
+  "description": "Types declaration file for vue3-observe-visibility package",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6ondarenko/vue3-observe-visibility.git"
+  },
+  "author": "Konstantin Bondarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6ondarenko/vue3-observe-visibility/issues"
+  },
+  "homepage": "https://github.com/6ondarenko/vue3-observe-visibility#readme"
+}
